@@ -13,7 +13,7 @@ public class JavaGetRequest {
     public static void main(String[] args) throws MalformedURLException,
             ProtocolException, IOException {
 
-        String url = "https://httpbin.org/headers";
+        String url = "http://first-plugin-us//api/test_connection/00000000-0000-0000-0000-000000000000";
 
         try {
 
